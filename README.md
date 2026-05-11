@@ -15,20 +15,6 @@ The project uses the **Open-Meteo API**, which does not require an API key.
 
 ---
 
-# 📸 Preview
-
-## Home Page
-
-![Weather App Home](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80\&w=1200\&auto=format\&fit=crop)
-
----
-
-## Forecast Section
-
-![Forecast UI](https://images.unsplash.com/photo-1492011221367-f47e3ccd77a0?q=80\&w=1200\&auto=format\&fit=crop)
-
----
-
 # 🚀 Features
 
 * 🔍 Search weather by city name
